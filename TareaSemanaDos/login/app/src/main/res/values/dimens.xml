@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margenreg">20dp</dimen>
+    <dimen name="margenregtop">5dp</dimen>
+    <dimen name="tamanho_letra">10sp</dimen>
+    <dimen name="ancho_et">370dp</dimen>
+    <dimen name="margenregtopconftit">10dp</dimen>
+    <dimen name="margenregtopconf">30dp</dimen>
+    <dimen name="tamanho_letra_conf">30sp</dimen>
+</resources>
