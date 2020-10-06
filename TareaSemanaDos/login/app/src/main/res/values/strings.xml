@@ -1,9 +1,9 @@
 <resources>
     <string name="app_name">RegistroCurso</string>
     <string name="nombre">Digite su nombre</string>
-    <string name="telefono">Digite su télefono</string>
-    <string name="email">Digite su email</string>
-    <string name="descripcion">Descripcion</string>
+    <string name="telefono">Digite su número de télefono</string>
+    <string name="email">Digite su dirección de correo eléctronicol</string>
+    <string name="descripcion">Descripción</string>
     <string name="siguiente">Siguiente</string>
     <string name="conf_datos">Confirmar datos</string>
     <string name="editar_datos">Editar datos</string>
